@@ -1,6 +1,6 @@
 # HopeInHollywoodDigitlal_pt1
  
-https://pricea21.github.io/HopeInHollywoodDigitlal_pt1/ 
+[https://pricea21.github.io/HopeInHollywoodDigitlal_pt1/ ](https://pricea21.github.io/HopeInHollywood_pt2/)
 
 9/11/23 to 9/18/23
 -Create a start scene 
